@@ -1,9 +1,19 @@
 .wrap{
+    width: 800px;
     margin: 0 auto;
+    margin-top: 50px;
 }
 
-h1{
-    font-size: 20px;
-    background-color: aquamarine;
-    font-color: #fff;
+
+.header{
+    font-size: 15px;
+    color: #fff;
+    background-color: #02ab8f;
+    padding: 1px;
+    margin-bottom: 15px;
 }
+
+.img img{
+    width: 100%
+}
+
