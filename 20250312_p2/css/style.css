@@ -1,0 +1,59 @@
+#wrap {
+  margin: 0 auto;
+  width: 500px;
+  text-align: center;
+}
+
+.h1 {
+  font-size: 25px;
+}
+
+.img img {
+  width: 100%;
+}
+
+.ingr {
+  font-size: 20px;
+}
+
+.table table {
+  width: 200%;
+  border-collapse: collapse;
+}
+
+.table th {
+  border-top: 3px solid green;
+  color: green;
+  border-bottom: 1px solid green;
+}
+
+.table td {
+  border-bottom: 1px solid #d0d0d0;
+}
+
+.color {
+  font-size: 35px;
+  color: green;
+  font-weight: bold;
+}
+
+b {
+  color: #ddb606;
+}
+
+.box {
+  border-top: 1px solid green;
+  background-color: #d0d0d0;
+  width: 1000px;
+  margin-bottom: 20px;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+p {
+  margin: 0 auto;
+}
