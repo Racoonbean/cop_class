@@ -1,6 +1,6 @@
 #wrap {
   margin: 0 auto;
-  width: 500px;
+  width: 1000px;
   text-align: center;
 }
 
@@ -9,7 +9,7 @@
 }
 
 .img img {
-  width: 100%;
+  width: 500px;
 }
 
 .ingr {
@@ -17,7 +17,7 @@
 }
 
 .table table {
-  width: 200%;
+  width: 100%;
   border-collapse: collapse;
 }
 
@@ -35,17 +35,22 @@
   font-size: 35px;
   color: green;
   font-weight: bold;
+  margin-top: 50px;
 }
 
 b {
   color: #ddb606;
 }
 
+.three {
+  margin-bottom: 50px;
+}
+
 .box {
   border-top: 1px solid green;
   background-color: #d0d0d0;
   width: 1000px;
-  margin-bottom: 20px;
+  margin: 50px;
 }
 
 .bold {
